@@ -1,0 +1,10 @@
+#Libraries
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+datetime
+random
+streamlit
